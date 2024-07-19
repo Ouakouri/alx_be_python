@@ -1,4 +1,3 @@
-# main-0.py
 import sys
 from bank_account import BankAccount
 
